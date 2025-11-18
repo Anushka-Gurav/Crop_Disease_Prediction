@@ -42,6 +42,7 @@ ___________________________________________________________
 
 📂 Project Structure
 crop-disease-prediction-system/
+
 │── backend/
 │   ├── main.py
 │   ├── model/
@@ -60,10 +61,11 @@ crop-disease-prediction-system/
 _____________________________________________________
 
 Contributors
-Anushka Gurav
-Tasnim Shaikh
-Shivani Ippar
-Sana Khan
+- Anushka Gurav
+- Tasnim Shaikh
+- Shivani Ippar
+- Sana Khan
 
 ________________________________________________
+
 
